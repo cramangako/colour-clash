@@ -1,0 +1,1 @@
+{"name":"colour-clash","version":"0.1.0","description":"Prototype engine and card data for Colour Clash","main":"src/index.js","scripts":{"start":"node src/index.js","test":"node ./tests/run-tests.js"},"license":"MIT"}
